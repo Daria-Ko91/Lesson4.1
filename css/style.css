@@ -1,0 +1,45 @@
+.ol{
+    margin: 40px 40px 40px 60px; 
+}
+.ul{
+    margin: 40px 40px 40px 60px;
+    widows: 40px;
+    height: 40px;
+    border: 40px dashed blue;
+    box-sizing: border-box;
+    overflow: scroll; 
+}
+.container{
+    width:700px;
+    position:relative;
+    text-align: center;
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:medium;
+}
+img{
+    width: 820px;
+    opacity: 0.8;
+}
+.center{
+    position:absolute;
+    top: 40%;
+    left: 20%;
+}
+.container1{
+    width:700px;
+    position:relative;
+    text-align: center;
+    color:black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:medium;
+}
+img{
+    width: 820px;
+    opacity: 0.7;
+}
+.center1{
+    position:absolute;
+    top: 40%;
+    left: 20%;
+}
